@@ -22,3 +22,4 @@ Tools & Technologies Used
 
  Project Structure
 * `[Order.csv, Detail.csv].pbix`: The main dashboard file containing the data model and layouts.
+<img width="1300" height="732" alt="Screenshot 2026-08-15 130928" src="https://github.com/user-attachments/assets/ffb1184a-4387-44e3-b39b-c5157f231dd4" />
